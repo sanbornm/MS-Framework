@@ -1,0 +1,14 @@
+.DS_Store
+*.sqlite3
+*.sqlite3-journal
+*.swp
+config/initializers/action_mailer_settings.rb
+db/schema.rb
+config/locomotive.yml
+config/mongrel_cluster.yml
+config/thin.yml
+tmp/*
+log/*
+private/images/*
+public/cache/*
+nbproject/*
